@@ -2,3 +2,7 @@ h2 {
     color:blueviolet;
     font-size: 24pt;
 }
+
+h1 {
+    border: 5px solid black;
+}
